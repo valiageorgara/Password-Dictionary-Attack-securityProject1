@@ -40,9 +40,9 @@ user_and_pass = {}
 user_and_hash_pass = {}
 all_hash_pass = []
 common_pass = []
-TOTAL_USERS = 10
 leaked_data = {}
 leaked_users = []
+TOTAL_USERS = 10
 
 answer_1 = input(
     'Welcome to crack master by Valia Georgara.\n'
